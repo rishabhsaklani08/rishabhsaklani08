@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rishabhsaklani08
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web
+- 👀 I’m an Web Development
+- 🌱 I love learning new stuff daily.
 - 💞️ I’m looking to collaborate on Github.
-- 📫 Mail me at codemerishabh@gmail.com
+- 📫 Mail me at contact@rishabhsaklani.com
 
 <!---
 rishabhsaklani08/rishabhsaklani08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
