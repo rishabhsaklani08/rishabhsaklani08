@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rishabhsaklani08
-- 👀 I’m an Web Development
+- 👀 I’m an Web Developer
 - 🌱 I love learning new stuff daily.
 - 💞️ I’m looking to collaborate on Github.
 - 📫 Mail me at contact@rishabhsaklani.com
