@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DJANGO**
 
-- 👨‍💻 All of my projects are available at [https://rishabhsaklani.com/](https://rishabhsaklani.com/)
+- 👨‍💻 All of my projects are available at [my profile.](https://rishabhsaklani.com/)
 
 - 💬 Ask me about **JAVA, HTML, CSS, JAVASCRIPT, SQL, BOOTSTRAP**
 
