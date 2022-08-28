@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Saklani</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **DJANGO**
+- 🌱 I’m currently learning **REACT**
 
 - 👨‍💻 All of my projects are available at [my profile.](https://rishabhsaklani.com/)
 
