@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **REACT**
 
-- 👨‍💻 All of my projects are available at [my profile.](https://rishabhsaklani.com/)
+<!-- - 👨‍💻 All of my projects are available at [my profile.](https://rishabhsaklani.com/) -->
 
 - 💬 Ask me about **JAVA, HTML, CSS, JAVASCRIPT, SQL, BOOTSTRAP**
 
